@@ -22,23 +22,20 @@ I'm always eager to learn new things. As a result, I am constantly looking for n
 
 ```text
 
-JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-INI          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JavaScript       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   20.44 %
+PHP              2 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   40.55 %
+Laravel          1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   40.00 %
+Other            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="buymeacoffee.com/?via=seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 Top Languages in my Github.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seamuddin)](https://github.com/anuraghazra/github-readme-stats)
 
 
+📈 my github stats
+
+![Seam's GitHub stats](https://github-readme-stats.vercel.app/api?username=seamuddin&show_icons=true&theme=radical)
 
 
 ### Where to find me
