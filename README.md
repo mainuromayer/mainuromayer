@@ -17,26 +17,6 @@ I am a Web Application Developer with a huge love for HTML5, CSS3, Bootstrap, Ta
 I'm always eager to learn new things. As a result, I am constantly looking for new topics to research, apply, and integrate.
 
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-
-JavaScript       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   20.44 %
-PHP              2 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   40.55 %
-Laravel          1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   40.00 %
-Other            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-```
-
-
-Top Languages in my Github.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seamuddin)](https://github.com/anuraghazra/github-readme-stats)
-
-
-📈 my github stats
-
-![Seam's GitHub stats](https://github-readme-stats.vercel.app/api?username=seamuddin&show_icons=true&theme=radical)
-
 
 ### Where to find me
 
