@@ -1,6 +1,3 @@
-### 😎 Hey! Nice to see you.
-
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,7 +16,29 @@ I am a Web Application Developer with a huge love for HTML5, CSS3, Bootstrap, Ta
 
 I'm always eager to learn new things. As a result, I am constantly looking for new topics to research, apply, and integrate.
 
-(https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+
+JSON         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+INI          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+```
+
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="buymeacoffee.com/?via=seamuddin2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+Top Languages in my Github.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seamuddin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ### Where to find me
